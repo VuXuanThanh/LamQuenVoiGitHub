@@ -1,7 +1,7 @@
 #include<iostream>
 #include<stdio.h>
 #include<string.h>
-// Bai tap cau truc 
+// Bai tap cau truc doanh nghiep.
 using namespace std;
 
 struct DoanhNghiep
