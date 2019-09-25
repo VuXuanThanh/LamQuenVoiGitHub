@@ -6,8 +6,8 @@ using namespace std;
 
 struct DoanhNghiep
 {
-	char Madn[10];
-	char giamdoc[40];
+	char Madn[100];
+	char giamdoc[100];
 	float vondieule;
 	int sonhanvien;
 };
