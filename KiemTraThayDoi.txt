@@ -4,4 +4,3 @@ Cai dcm
 chan vl
 hoc di choi it thoi
 ngu vcl
-// Cu co gang hoc biet dau sau nay do kho
