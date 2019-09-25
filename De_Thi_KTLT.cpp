@@ -94,7 +94,7 @@ void DN_KhongHopLe(DoanhNghiep a[], int n)
 	int dem=0;
 	for(int i=0;i<n;i++)
 	{
-		if(a[i].vondieule<10||TimDauCach(a[i].Madn)==1)
+		if(a[i].vondieule<100||TimDauCach(a[i].Madn)==1)
 			dem++;
 	}
 	cout<<"So doanh nghiep khong hop le:"<<dem<<endl;
