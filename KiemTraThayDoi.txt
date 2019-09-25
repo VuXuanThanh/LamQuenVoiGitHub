@@ -2,3 +2,4 @@ Kiem tra thay doi trong git hub
 KIEM TRA CAI DCMM
 Cai dcm
 chan vl
+hoc di choi it thoi
